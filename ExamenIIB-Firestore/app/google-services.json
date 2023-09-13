@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "37867830521",
+    "project_id": "exameniib-59f85",
+    "storage_bucket": "exameniib-59f85.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37867830521:android:6ee06abd710498eb8f3628",
+        "android_client_info": {
+          "package_name": "com.example.crud_room_kotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37867830521-430pmrefp29amidv2lsth48kv4dijp7p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVQZFwry2u_dYChM3H-gHEA7Gj9U8R7aE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "37867830521-430pmrefp29amidv2lsth48kv4dijp7p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

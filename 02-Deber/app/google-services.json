@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "885672340169",
+    "project_id": "crud-room-kotlin",
+    "storage_bucket": "crud-room-kotlin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885672340169:android:193986130814b7f188bb18",
+        "android_client_info": {
+          "package_name": "com.example.crud_room_kotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "885672340169-d8cb47usibaalj84m2enjh1b6djnungr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZkew3FuGAJ5u4GesQHGJ-KBWIiLsz9z0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "885672340169-d8cb47usibaalj84m2enjh1b6djnungr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
